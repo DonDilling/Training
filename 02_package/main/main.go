@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println(stringutilDD.Reverse("!oG ,elloH"))
+	fmt.Println(stringutilDD.Reverse("!!oG ,elloH"))
 	fmt.Println(stringutilDD.MyName)
 }
